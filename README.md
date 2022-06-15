@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 My name is Mykola Rybak
 - 📍  I am Ukrainian
-- 🎓  PhD in Law, Software Engineer, the economist
+- 🎓  Ph.D. in Law, Software Engineer, the economist
 - 🪄  <a href="http://www.univ.kiev.ua/en/">Taras Shevchenko National University of Kyiv</a> is my Alma mater ❤️
 - 📫  For more information about me welcome to <a href="https://www.linkedin.com/in/m-rybak">LinkedIn</a>
